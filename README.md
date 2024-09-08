@@ -1,14 +1,10 @@
 | [home page](https://rugz007.github.io/tswd-portfolio-templates/) | [visualizing debt](https://rugz007.github.io/tswd-portfolio-templates/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
+# Portfolio
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should hire me. 
 - Web page URL: https://rugz007.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/rugz007/tswd-portfolio-templates/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
 Hi, I am a master's student at Carnegie Mellon University and I love computer programming and everything around it in general.
