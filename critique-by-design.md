@@ -6,9 +6,10 @@
 
 I chose to critique the following data visualization: 
 
+![image](https://github.com/user-attachments/assets/51d8a927-c9dd-4afe-ab7d-850863d40f6d)
 
 
-![Source](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)
+[Source](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)
 
 The data visualization shows the US semiautomatic firearm exports from 2005-2022 to various countries using a radial graph. The radial graph seems to give the idea of how US exports have led to violence in different parts of the world.
 
@@ -24,13 +25,14 @@ Overall, while the graph presents important information, its complex design requ
 ## Step three: Sketch a solution
 
 ### First graph: Bar chart
-- My initial thoughts led to me to draw out a bar chat. The bar chart would show the total number of weapons exported to each country. The reason I chose a bar chart because it is simple to to read and understand, allowing readers to quickly grasp the main message. 
+- My initial thoughts led me to draw out a bar chat. The bar chart would show the total number of weapons exported to each country. The reason I chose a bar chart is because it is simple to to read and understand, allowing readers to quickly grasp the main message. 
 - To ensure the countries are easier to compare, I chose a bar chart is because it is easier to compare the number of weapons exported to different countries. 
 - I chose to use the color red to maintain the sense of urgency conveyed in the original visualization.
 - I chose to included the top 20 countries which are the largest importers of US weapons to ensure the graph is not too crowded.
 - The x-axis is sorted in descending order to show the countries with the highest number of weapons imported first. I had considered to sort them by distance from the US but decided against it as it would not be as intuitive as sorting by the number of weapons imported.
 
 Here is the sketch of the solution:
+![image](https://github.com/user-attachments/assets/f22715d5-d931-452b-8004-fa4b3020ea94)
 
 ### Second graph: Map
 Based on the initial feedback I got, I found out that having another type of graph to show the geographical context of the data would be helpful.
@@ -85,11 +87,30 @@ Another feedback was that the total count of weapons was not included in the bar
 
 Here is the final solution:
 
-Bar chart:
-
-
+### Bar chart:
 The bar chart should be used when comparision between the countries is needed. But it cannot communicate how far the countries are from the US.
+<div class='tableauPlaceholder' id='viz1726676946484' style='position: relative'><noscript><a href='#'><img alt='Top 20 countries US exported firearms to  - 2005–2022US exported 3.7M Firearms in this time period ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USWeaponExport&#47;Top20countriesUSexportedfirearmsto-20052022&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='USWeaponExport&#47;Top20countriesUSexportedfirearmsto-20052022' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USWeaponExport&#47;Top20countriesUSexportedfirearmsto-20052022&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1726676946484');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
-Map:
+### Map:
 
 The map should be used when geographical context is needed. The map is not good at helping the reader know exactly how much is the difference between the countries.
+
+<div class='tableauPlaceholder' id='viz1726676895683' style='position: relative'><noscript><a href='#'><img alt='US semiautomatic firearm exports over 10K units - 2005–2022US exported 3.7M Firearms in this time period ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USWeaponExport-Map&#47;USsemiautomaticfirearmexportsover10Kunits-20052022&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='USWeaponExport-Map&#47;USsemiautomaticfirearmexportsover10Kunits-20052022' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USWeaponExport-Map&#47;USsemiautomaticfirearmexportsover10Kunits-20052022&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1726676895683');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
