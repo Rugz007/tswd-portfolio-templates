@@ -7,9 +7,29 @@ From last time, I had changed my story to focus on tackling the satisfaction pro
 My story is a pitch for a startup - Johnathan AI - which is a AI tool which reviews the code and identifies the technical debt in the code. The tool will also provide the developers with the suggestions to fix the technical debt. This will be used when the developers are reviewing their codes weekly, usually when individual contributions are merged to the main branch - a process facilitated by a
 feature called Pull Request in the version control system.
 
+The story outline is as follows and is a lot more simpler than the previous one:
+1. Introduction
+    - Introduce the startup Johnathan AI
+    - Introduce the founder of the company
+2. The problem
+    - Are software engineers really satisfied?
+    - What are the common frustations in the software industry?
+    - What is technical debt?
+    - Why does it exist? 
+3. The solution
+    - Introduce Johnathan AI
+    - How does it work?
+    - How does it help in reducing technical debt?
+4. Conclusion
+    - Call to action - please invest! :)
+
 The data I have obtained from stackoverflow wasn't the most visualization friendly and hence had to invest a significant time figuring out how to generate the tables in Python and then import them into Tableau. I have attached a clean version of the notebook in the repository.
+Notebook link: [https://github.com/Rugz007/tswd-portfolio-templates/blob/main/charts.ipynb](https://github.com/Rugz007/tswd-portfolio-templates/blob/main/charts.ipynb)
+
 
 I have attached the short hand link for the storyboards below:
+
+<script src="https://carnegiemellon.shorthandstories.com/johnathon-ai/embed.js"></script>
 
 
 # User research 
@@ -20,6 +40,24 @@ The target audience for the product is software developers.
 The target audience for *this story* is potential investors and software developers who are looking for a solution to the technical debt problem.
 The story is a pitch for the startup.
 
+1. Software Engineer #1: 
+    - **Demographics**: 28-year-old
+    - **Experience**: 5 years in the software industry
+    - **Role**: Senior Software Engineer
+    - **Company**: Large tech company
+    - **Motivation**: Interested in new tools that can improve efficiency
+2. Software Engineer #2:
+    - **Demographics**: 35-year-old
+    - **Experience**: 10 years in the software industry
+    - **Role**: Tech Lead
+    - **Company**: Medium-sized tech company
+    - **Motivation**: Looking for tools that can streamline the code review process
+3. Software Engineer #3:
+    - **Demographics**: 24-year-old
+    - **Experience**: 2 years in the software industry
+    - **Role**: Junior Software Engineer
+    - **Company**: Startup
+    - **Motivation**: Want to be a better developer and learn new things
 
 ## Interview script
 
@@ -39,7 +77,7 @@ Then after the wireframes or the idea is pitched, I would want to understand are
 ## Interview findings
 I interviewed three software engineers as "VCs" to gather feedback on the product idea and the pitch. Here are the key insights from the interviews:
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Are you satisfied as a software engineer? | Generally satisfied but frustrated with technical debt | Satisfied but sees room for improvement | Dissatisfied due to constant firefighting |
 | How much time do you spend in code reviews? | Around 5 hours per week | Approximately 3 hours per week | Nearly 10 hours per week |
