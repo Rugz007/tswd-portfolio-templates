@@ -1,7 +1,6 @@
 | [home page](https://rugz007.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 From last time, I had changed my story to focus on tackling the satisfaction problem in the software industry. After some data visualizations, I found that addressing technical debt is the biggest contributor to the generation of frustation in the software industry. I will be focusing on that in this part.
 
 My story is a pitch for a startup - Johnathan AI - which is a AI tool which reviews the code and identifies the technical debt in the code. The tool will also provide the developers with the suggestions to fix the technical debt. This will be used when the developers are reviewing their codes weekly, usually when individual contributions are merged to the main branch - a process facilitated by a
@@ -33,6 +32,7 @@ I have attached the short hand link for the storyboards below:
 
 
 # User research 
+For user research, I have interviewed three software engineers to gather feedback on the product idea and the pitch. The goal of the interviews was to understand the satisfaction levels of software engineers, the time spent on code reviews, the usefulness of the product, potential concerns, willingness to pay, and any missing details in the pitch.
 
 ## Target audience
 
