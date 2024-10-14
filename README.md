@@ -17,12 +17,6 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 3. How do existing tools incorporate these good practices and why do we still end up with bad graphs today?
 
 
-# Portfolio
-| [home page](https://rugz007.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
